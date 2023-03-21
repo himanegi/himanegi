@@ -1,7 +1,7 @@
 
-### Hi there 👋,
+# Hi there ! 👋
 
-# I am Himanshu Negi
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20am%20Himanshu%20Negi&width=800&height=200)
 
 Welcome to my GitHub page. I am a CS student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to be a full-stack developer) who is also interested in playing and making games with a pinch of competitive programming in the mix.
 Having tried my hands on few Adobe software, video editing also comes under the few interests I have.
@@ -20,7 +20,7 @@ Having tried my hands on few Adobe software, video editing also comes under the 
 
 >Tools and technologies that I have worked with and am interested in :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,python,django,java,codepen,cs,unity,cpp,git,github,mysql,ps,pr,ae&perline=10)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,express,react,nodejs,python,django,java,codepen,cs,unity,cpp,git,github,mysql,ps,pr,ae&perline=10)
 
 <!-- <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
