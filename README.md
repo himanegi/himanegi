@@ -3,7 +3,7 @@
 
 # I am Himanshu Negi
 
-Welcome to my GitHub Page. I am a computer science student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to be a full-stack developer) who is also interested in playing and making games with a pinch of competitive programming in the mix.
+Welcome to my GitHub page. I am a CS student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to be a full-stack developer) who is also interested in playing and making games with a pinch of competitive programming in the mix.
 Having tried my hands on few Adobe software, video editing also comes under the few interests I have.
 
 #
