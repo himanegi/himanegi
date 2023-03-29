@@ -1,7 +1,5 @@
 
-# Hi there ! 👋
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20am%20Himanshu%20Negi&width=800&height=200)
+# Hi there 👋, I'm Himanshu Negi
 
 Welcome to my GitHub page. I am a CS student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to be a full-stack developer) who is also interested in playing and making games with a pinch of competitive programming in the mix.
 Having tried my hands on few Adobe software, video editing also comes under the few interests I have.
