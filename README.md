@@ -5,9 +5,12 @@ My creative side also extends to video editing, having experimented with various
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanegi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanegi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/himanegi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=himanegi&show_icons=true&theme=radical" />
+</a> -->
+<a href="https://github.com/himanegi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanegi&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 
 ## 🔥 GitHub Streak
 
@@ -21,24 +24,23 @@ My creative side also extends to video editing, having experimented with various
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanegi&repo=your-repo-name&theme=radical)](https://github.com/himanegi/hitch-hike-2.0)
+<a href="https://github.com/himanegi/hitch-hike-2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanegi&repo=hitch-hike-2.0&theme=radical" />
+</a>
+<a href="https://github.com/himanegi/leetsouls">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanegi&repo=leetsouls&theme=radical" />
+</a>
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/himanegi/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-website.com)
-
-## 👨‍💻 Coding Activity
-
-[![Himanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanegi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-website.com) -->
 
 ## 🎯 Goals for 2024
 
 - [ ] Contribute to more open-source projects
 - [ ] Build more full-stack web applications
 - [ ] Learn a new programming language
-- [ ] Improve my problem-solving skills on LeetCode and Codeforces
+- [ ] Improve my problem-solving skills
 
 ---
-
-
