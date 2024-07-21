@@ -1,18 +1,8 @@
 
 # Hi there 👋, I'm Himanshu Negi
 
-Welcome to my GitHub page. I am a CS student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to be a full-stack developer) who is also interested in playing and making games with a pinch of competitive programming in the mix.
+Welcome to my GitHub page. I am a CS student at Motilal Nehru National Institute of Technology, Allahabad. I'm a passionate front-end web developer (aspiring to go full-stack) who is also interested in playing and making games with a pinch of competitive programming in the mix.
 Having tried my hands on few Adobe software, video editing also comes under the few interests I have.
-
-#
-
-- 🔭 I’m currently working on a 2D Platformer in Unity.
-- 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on video editing projects.
-- 🤔 I’m looking for help with game design.
-- 💬 Ask me about gaming, web-development and anime.
-- 👯 We can connect to play some Valorant.
-- ⚡ Fun fact: Assassin's Creed was a Prince of Persia Spinoff.
 
 # My favorite tools and technologies ⚙️
 
