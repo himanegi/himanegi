@@ -14,7 +14,7 @@ My creative side also extends to video editing, having experimented with various
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=himanegi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanegi&theme=dark)](https://git.io/streak-stats)
 
 ## 🛠️ My favorite tools and technologies
 
