@@ -14,8 +14,8 @@ My creative side also extends to video editing, having experimented with various
 
 ## 🔥 GitHub Streak
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=dark&hide_border=false" alt="GitHub Streak" />
+<a href="https://github.com/himanegi/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=himanegi&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 ## 🛠️ My favorite tools and technologies
